@@ -6,3 +6,4 @@ resources/bibtex.txt filter=lfs diff=lfs merge=lfs -text
 resources/method_diagram.png filter=lfs diff=lfs merge=lfs -text
 resources/paper.png filter=lfs diff=lfs merge=lfs -text
 resources/teaser.png filter=lfs diff=lfs merge=lfs -text
+resources/img.png filter=lfs diff=lfs merge=lfs -text
